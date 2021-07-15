@@ -10,7 +10,7 @@ GERMANY
 
 ## Members of the Board of Management
 
-Dr. Volkmar Denner, Prof. Dr. Stefan Asenkerschbaumer, Filiz Albrecht, Dr. Michael Bolle, Dr. Christian Fischer, Dr. Stefan Hartung, Dr. Markus Heyn, Harald Kröger, Rolf Najork, Uwe Raschke
+Dr. Volkmar Denner, Prof. Dr. Stefan Asenkerschbaumer, Filiz Albrecht, Dr. Christian Fischer, Dr. Stefan Hartung, Dr. Markus Heyn, Harald Kröger, Rolf Najork
 
 ## Your contact at Bosch Research
 
