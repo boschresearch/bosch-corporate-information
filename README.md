@@ -10,7 +10,7 @@ GERMANY
 
 ## Members of the Board of Management
 
-Dr. Stefan Hartung, Dr. Christian Fischer, Filiz Albrecht, Dr. Markus Forschner, Dr. Markus Heyn, Dr. Tanja Rückert
+Dr. Stefan Hartung, Dr. Christian Fischer, Dr. Markus Forschner, Stefan Grosch, Dr. Markus Heyn, Dr. Tanja Rückert
 
 ## Your contact at Bosch Research
 
